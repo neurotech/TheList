@@ -1,0 +1,12 @@
+## Interface: 100002
+## X-Curse-Project-ID: -1
+## Title: The List
+## Notes: Try not to get on this.
+## URL: TBD
+## Author: neurotech
+## Version: @project-version@
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: TheListDB
+
+TheList.lua

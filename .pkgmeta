@@ -1,0 +1,5 @@
+ignore:
+
+- "\*.yml"
+- "dev.sh"
+- "package.json"
